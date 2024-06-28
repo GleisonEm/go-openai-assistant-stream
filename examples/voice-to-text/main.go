@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/sashabaranov/go-openai"
+	"github.com/gleisonem/go-openai-assistant-stream"
 )
 
 func main() {

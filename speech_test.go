@@ -11,9 +11,9 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/sashabaranov/go-openai"
-	"github.com/sashabaranov/go-openai/internal/test"
-	"github.com/sashabaranov/go-openai/internal/test/checks"
+	"github.com/gleisonem/go-openai-assistant-stream"
+	"github.com/gleisonem/go-openai-assistant-stream/internal/test"
+	"github.com/gleisonem/go-openai-assistant-stream/internal/test/checks"
 )
 
 func TestSpeechIntegration(t *testing.T) {

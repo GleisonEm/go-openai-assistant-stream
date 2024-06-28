@@ -7,7 +7,7 @@ import (
 	"io"
 	"os"
 
-	openai "github.com/sashabaranov/go-openai"
+	openai "github.com/gleisonem/go-openai-assistant-stream"
 )
 
 func main() {

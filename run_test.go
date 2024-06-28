@@ -3,8 +3,8 @@ package openai_test
 import (
 	"context"
 
-	openai "github.com/sashabaranov/go-openai"
-	"github.com/sashabaranov/go-openai/internal/test/checks"
+	openai "github.com/gleisonem/go-openai-assistant-stream"
+	"github.com/gleisonem/go-openai-assistant-stream/internal/test/checks"
 
 	"encoding/json"
 	"fmt"

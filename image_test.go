@@ -1,8 +1,8 @@
 package openai //nolint:testpackage // testing private field
 
 import (
-	utils "github.com/sashabaranov/go-openai/internal"
-	"github.com/sashabaranov/go-openai/internal/test/checks"
+	utils "github.com/gleisonem/go-openai-assistant-stream/internal"
+	"github.com/gleisonem/go-openai-assistant-stream/internal/test/checks"
 
 	"context"
 	"fmt"

@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/sashabaranov/go-openai"
+	"github.com/gleisonem/go-openai-assistant-stream"
 )
 
 func TestAPIErrorUnmarshalJSON(t *testing.T) {
